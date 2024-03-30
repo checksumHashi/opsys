@@ -1,0 +1,14 @@
+I grupa
+    1. Neka je dat fajl events.txt 
+    u koji u sebi sadrži nazive događaja 
+    i datume kada se oni dešavaju u sledećem formatu:
+    naziv,yyyy/mm/dd.
+
+    Napisati shell skriptu koja na osnovu 
+    datog events.txt fajla pravi izlazni 
+    fajl events_sorted.txt koji sadrži 
+    sortirane događaje po datumu dešavanja 
+    od najranijih ka najkasnijim.  
+    
+    Izlazni fajl treba da bude u sledećem formatu:
+    naziv,dd/mm/yyyy. 
