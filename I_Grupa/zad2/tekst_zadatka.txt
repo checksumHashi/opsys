@@ -1,0 +1,5 @@
+2. Napisati shell skriptu koja kao argument 
+dobija naziv izvornog C koda i broj N, 
+kompajlira program, a zatim ga pokreće N puta na 
+svake 4 sekunde i izlaze redirektuje redom 
+u fajlove rezultatC1.txt, rezultatC2.txt…rezultatCN.txt. 
