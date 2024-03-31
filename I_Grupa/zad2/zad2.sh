@@ -25,4 +25,5 @@ for ((i=1; i<=N; i++)); do
     output=$(./c_program)
     touch rezultatC$i.txt
     echo "$output" > rezultatC$i.txt
+    sleep 4
 done
